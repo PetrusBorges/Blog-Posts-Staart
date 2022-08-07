@@ -2,7 +2,7 @@
 
 Repositório criado exclusivamente para treinar boas práticas em HTML5 + CSS3 + JAVASCRIPT + REACT + NPM/NPX + REACT ROUTER DOM adquiridas no curso Staart.
 
-[Petrus Borges - Blog de Posts]([https://petrusborges-armytrix-clone.netlify.app](https://blog-posts-staart.vercel.app))
+[Petrus Borges - Blog de Posts](https://blog-posts-staart.vercel.app)
 
 ![01](https://user-images.githubusercontent.com/105453766/183299285-c78b23d7-6e6e-4d2f-9baa-6851ad35f9e2.jpg)
 
