@@ -10,6 +10,12 @@ Repositório criado exclusivamente para treinar boas práticas em HTML5 + CSS3 +
 
 ![03](https://user-images.githubusercontent.com/105453766/183299293-f2828732-24fa-48a2-b600-8e53eb658250.jpg)
 
+
+
+https://user-images.githubusercontent.com/105453766/184550968-10e2f670-8e71-447d-9d5a-437a2ba3814e.mp4
+
+
+
 ## 📋 Projeto
 
 Os conteúdos presentes neste repositório é resultado de participação do curso Front End na [Staart](https://staart.com/?pmp=STR-VEX-GG-SRC-BABT-20220615-PAG-T0001-AS-597322838783&utm_source=googleads&utm_campaign=T0001&utm_medium=pesquisa&utm_content=venda&utm_term=STR-VEX-GG-SRC-BABT-20220615-PAG-T0001-AS-597322838783&gclid=Cj0KCQjwxb2XBhDBARIsAOjDZ35deL7dtbGxIjFFaEvdeNljPKfWLLbPmWBTBH5YrfWQ0of6UufR58gaAs2WEALw_wcB) 🤘.
