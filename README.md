@@ -10,7 +10,9 @@ Repositório criado exclusivamente para treinar boas práticas em HTML5 + CSS3 +
 
 ![03](https://user-images.githubusercontent.com/105453766/183299293-f2828732-24fa-48a2-b600-8e53eb658250.jpg)
 
-![unknown_2022 08 14-15 47_clip_1_clip_1_clip_1-_online-video-cutter com_](https://user-images.githubusercontent.com/105453766/184550999-c415ef6b-ee9c-49de-be4a-6f16cdd84252.gif)
+
+
+https://user-images.githubusercontent.com/105453766/184551034-5f1ade9c-8d99-4224-af4d-3aa6c952a929.mp4
 
 ## 📋 Projeto
 
